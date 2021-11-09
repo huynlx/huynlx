@@ -9,3 +9,7 @@ Huynh12345678/Huynh12345678 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 ![Github Stat](https://github-readme-stats.vercel.app/api?username=huynh12345678&show_icons=true&theme=tokyonight&hide=contribs,prs)
+![Github Stat](https://github-readme-streak-stats.herokuapp.com/?user=huynh12345678&theme=tokyonight)
+![Github Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=huynh12345678&layout=compact&theme=tokyonight&langs_count=6)
+![Github Stat](https://activity-graph.herokuapp.com/graph?username=huynh12345678&theme=react-dark&hide_border=true)
+
