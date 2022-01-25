@@ -25,6 +25,9 @@ const info = {
 
 ## Graph
 ![Github Stat](https://activity-graph.herokuapp.com/graph?username=huynh12345678&theme=react-dark&hide_border=true)
+	
+## Dev Card
+<a href="https://app.daily.dev/Huynhzip3"><img src="https://api.daily.dev/devcards/67e4fdfb82c34e699b6a121833fb625d.png?r=i8e" width="400" alt="Lê Xuân Huynh's Dev Card"/></a>
 
 ## Trophies 🏆
 [![Trophies](https://github-profile-trophy.vercel.app/?username=huynh12345678&margin-w=10&theme=discord&no-frame=true)](#)
@@ -84,4 +87,3 @@ Huynh12345678/Huynh12345678 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://app.daily.dev/Huynhzip3"><img src="https://api.daily.dev/devcards/67e4fdfb82c34e699b6a121833fb625d.png?r=i8e" width="400" alt="Lê Xuân Huynh's Dev Card"/></a>
