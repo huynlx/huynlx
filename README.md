@@ -30,7 +30,8 @@ const info = {
 	
 ## Dev Card 💳
 <a href="https://app.daily.dev/Huynhzip3"><img src="https://api.daily.dev/devcards/67e4fdfb82c34e699b6a121833fb625d.png?r=i8e" width="400" alt="Lê Xuân Huynh's Dev Card"/></a>
-
+<img src="https://media2.giphy.com/media/7hW7hXXri33NK/giphy.gif" align="right">
+	
 ## Trophies 🏆
 [![Trophies](https://github-profile-trophy.vercel.app/?username=huynh12345678&margin-w=10&theme=discord&no-frame=true)](#)
 
