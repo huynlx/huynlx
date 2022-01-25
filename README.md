@@ -54,7 +54,7 @@ const info = {
 
 ### Browsers
 [![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoft%20edge&logoColor=white "Microsoft Edge")](https://www.microsoft.com/edge)
-[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://www.google.com/chrome/)
+[![Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://www.google.com/chrome/)
 [![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://www.opera.com/gx)
 
 ### Dev tools
