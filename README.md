@@ -14,7 +14,8 @@ const info = {
 
 <details>
   <summary>More</summary>
-	
+
+<br>
 <p align="center">
   <img src="https://static.wikia.nocookie.net/963a79fe-f806-4381-b09f-7dbadb109e09/scale-to-width/755">
 </p>
