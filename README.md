@@ -15,6 +15,10 @@ const info = {
 <details>
   <summary>More</summary>
 	
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/963a79fe-f806-4381-b09f-7dbadb109e09/scale-to-width/755">
+</p>
+	
 ## Stats 📈
 [![Stats](https://github-readme-stats.vercel.app/api?username=huynh12345678&show_icons=true&hide_border=true&theme=react)](#)  
 	
@@ -45,8 +49,8 @@ const info = {
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white "Windows 10")](#)
 
 ## Devices 📱
-[![Lenovo Legion Y7000](https://img.shields.io/badge/Aspire_F5_571-83B81A?style=for-the-badge&logo=arch-linux&logoColor=white "Aspire F5 571")](https://www.acer.com/)
-[![iPhone 8 Plus](https://img.shields.io/badge/Redmi_9-FA6709?style=for-the-badge&logo=xiaomi&logoColor=white "Redmi 9")](https://www.mi.com/)
+![Lenovo Legion Y7000](https://img.shields.io/badge/Lenovo%20Legion%20Y7000-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
+![iPhone 8 Plus](https://img.shields.io/badge/iPhone%208%20Plus-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 
 ## Tools 🚀
 
