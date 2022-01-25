@@ -15,13 +15,13 @@ const info = {
   <summary>More</summary>
 	
 ## Stats 📈
-[![Stats](https://github-readme-stats.vercel.app/api?username=huynh12345678&show_icons=true&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a&count_private=true "GitHub stats")](#)  
+[![Stats](https://github-readme-stats.vercel.app/api?username=huynh12345678&show_icons=true&hide_border=true&theme=react)](#)  
 	
 ## Streak 🔥
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=huynh12345678&hide_border=true&background=23272A&ring=5865F2&fire=ED4245&dates=FEE75C&currStreakLabel=ED4245&sideNums=5865F2&currStreakNum=57F287&sideLabels=FFFFFF&stroke=FFFFFF)](#)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=huynh12345678&hide_border=true&theme=monokai)](#)
 
 ## Most used languages 🌐
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huynh12345678&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a&hide_border=true&layout=compact)](#)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huynh12345678&theme=cobalt&&langs_count=6&&layout=compact)](#)
 
 ## Graph 📊
 ![Github Stat](https://activity-graph.herokuapp.com/graph?username=huynh12345678&theme=gotham&hide_border=true)
@@ -33,6 +33,7 @@ const info = {
 [![Trophies](https://github-profile-trophy.vercel.app/?username=huynh12345678&margin-w=10&theme=discord&no-frame=true)](#)
 
 ## Links 🔗
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Huynh12345678)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white "Discord")](https://discord.com/users/905864303553445928)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white "Facebook")](https://www.facebook.com/xuanhuynh.le.54)
 [![Homepage](https://img.shields.io/badge/Homepage-41BDF5?style=for-the-badge&logo=page&logoColor=white "Homepage")](https://huynh12345678.github.io/)
