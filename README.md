@@ -16,20 +16,20 @@ const info = {
 	
 ## Stats 📈
 [![Stats](https://github-readme-stats.vercel.app/api?username=huynh12345678&show_icons=true&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a&count_private=true "GitHub stats")](#)  
-<!-- https://github-readme-stats.vercel.app/api?username=huynh12345678&show_icons=true&theme=tokyonight&hide=contribs,prs -->
+	
 ## Streak 🔥
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlphaNecron&hide_border=true&background=23272A&ring=5865F2&fire=ED4245&dates=FEE75C&currStreakLabel=ED4245&sideNums=5865F2&currStreakNum=57F287&sideLabels=FFFFFF&stroke=FFFFFF)](#)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=huynh12345678&hide_border=true&background=23272A&ring=5865F2&fire=ED4245&dates=FEE75C&currStreakLabel=ED4245&sideNums=5865F2&currStreakNum=57F287&sideLabels=FFFFFF&stroke=FFFFFF)](#)
 
 ## Most used languages 🌐
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaNecron&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a&hide_border=true&layout=compact)](#)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huynh12345678&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a&hide_border=true&layout=compact)](#)
 
 ## Trophies 🏆
-[![Trophies](https://github-profile-trophy.vercel.app/?username=AlphaNecron&margin-w=10&theme=discord&no-frame=true)](#)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=huynh12345678&margin-w=10&theme=discord&no-frame=true)](#)
 
 ## Links 🔗
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white "Discord")](https://discord.com/users/534752817534074880)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white "Facebook")](https://facebook.com/AlphaNecron)
-[![Homepage](https://img.shields.io/badge/Homepage-41BDF5?style=for-the-badge&logo=page&logoColor=white "Homepage")](https://xwork.space)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white "Discord")](https://discord.com/users/905864303553445928)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white "Facebook")](https://www.facebook.com/xuanhuynh.le.54)
+[![Homepage](https://img.shields.io/badge/Homepage-41BDF5?style=for-the-badge&logo=page&logoColor=white "Homepage")](https://huynh12345678.github.io/)
 
 ## Operating systems 💻
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white "Arch Linux")](https://archlinux.org/)
