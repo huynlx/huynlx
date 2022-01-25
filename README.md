@@ -1,13 +1,13 @@
 ```javascript
 const info = {
-	fullName: 'Nguyen Thanh Quang',
-	nickname: 'AlphaNecron',
-	age: 15,
+	fullName: 'Le Xuan Huynh',
+	nickname: 'huynhzip3',
+	age: 23,
 	gender: 'male',
-	occupation: 'secondary school student',
+	occupation: 'fronted developer',
 	location: 'nowhere',
-	interested_in: ['csharp', 'javascript', 'typescript', 'linux', 'golang', 'cpp', 'python', 'prisma', 'reactjs', 'nextjs', 'nodejs'],
-	email: 'work@xwork.space'
+	interested_in: ['javascript', 'typescript', 'mongodb', 'reactjs', 'nextjs', 'nodejs'],
+	email: 'huynhlx62@wru.vn'
 };
 ```
 
@@ -15,8 +15,8 @@ const info = {
   <summary>More</summary>
 	
 ## Stats 📈
-[![Stats](https://github-readme-stats.vercel.app/api?username=AlphaNecron&show_icons=true&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a&count_private=true "GitHub stats")](#)  
-
+[![Stats](https://github-readme-stats.vercel.app/api?username=huynh12345678&show_icons=true&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a&count_private=true "GitHub stats")](#)  
+<!-- https://github-readme-stats.vercel.app/api?username=huynh12345678&show_icons=true&theme=tokyonight&hide=contribs,prs -->
 ## Streak 🔥
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlphaNecron&hide_border=true&background=23272A&ring=5865F2&fire=ED4245&dates=FEE75C&currStreakLabel=ED4245&sideNums=5865F2&currStreakNum=57F287&sideLabels=FFFFFF&stroke=FFFFFF)](#)
 
