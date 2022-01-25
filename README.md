@@ -21,23 +21,31 @@ const info = {
 </p>
 	
 ## Stats 📈
-[![Stats](https://github-readme-stats.vercel.app/api?username=huynh12345678&show_icons=true&hide_border=true&theme=react)](#)  
+<p align="center">
+<img src='https://github-readme-stats.vercel.app/api?username=huynh12345678&show_icons=true&hide_border=true&theme=react'>
+<p>
 	
 ## Streak 🔥
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=huynh12345678&hide_border=true&theme=monokai)](#)
+<p align="center">
+<img src='http://github-readme-streak-stats.herokuapp.com/?user=huynh12345678&hide_border=true&theme=monokai'>
+<p>
 
 ## Most used languages 🌐
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huynh12345678&theme=cobalt&&langs_count=6&hide_border=true)](#)
+<p align="center">
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=huynh12345678&theme=cobalt&&langs_count=6&hide_border=true'>
+<p>
 
 ## Graph 📊
-![Github Stat](https://activity-graph.herokuapp.com/graph?username=huynh12345678&theme=gotham&hide_border=true)
+<p align="center">
+<img src='https://activity-graph.herokuapp.com/graph?username=huynh12345678&theme=gotham&hide_border=true'>
+<p>
 	
 ## Dev Card 💳
 <a href="https://app.daily.dev/Huynhzip3"><img src="https://api.daily.dev/devcards/67e4fdfb82c34e699b6a121833fb625d.png?r=i8e" width="400" alt="Lê Xuân Huynh's Dev Card"/></a>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Huynhzip3+-+A+frontend+developer" align="right">
 
 ## Trophies 🏆
-[![Trophies](https://github-profile-trophy.vercel.app/?username=huynh12345678&margin-w=10&theme=discord&no-frame=true)](#)
+<img src='https://github-profile-trophy.vercel.app/?username=huynh12345678&margin-w=10&theme=discord&no-frame=true'>
 
 ## Links 🔗
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Huynh12345678)
