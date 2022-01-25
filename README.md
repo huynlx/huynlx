@@ -12,7 +12,7 @@ const info = {
 ```
 
 <details>
-  <summary>More</summary>
+<!--   <summary>More</summary> -->
 	
 ## Stats 📈
 [![Stats](https://github-readme-stats.vercel.app/api?username=huynh12345678&show_icons=true&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a&count_private=true "GitHub stats")](#)  
