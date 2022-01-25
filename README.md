@@ -45,7 +45,7 @@ const info = {
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Huynhzip3+-+A+frontend+developer" align="right">
 
 ## Trophies 🏆
-<img src='https://github-profile-trophy.vercel.app/?username=huynh12345678&margin-w=10&theme=discord&no-frame=true'>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=huynh12345678&margin-w=10&theme=discord&no-frame=true)](#) 
 
 ## Links 🔗
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Huynh12345678)
