@@ -10,7 +10,6 @@ const info = {
 	email: 'huynhlx62@wru.vn'
 };
 ```
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Huynhzip3+-+A+frontend+developer)](https://git.io/typing-svg)
 <!-- ![](https://komarev.com/ghpvc/?username=huynh12345678) -->
 
 <details>
