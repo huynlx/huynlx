@@ -24,7 +24,7 @@ const info = {
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huynh12345678&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a&hide_border=true&layout=compact)](#)
 
 ## Graph 📊
-![Github Stat](https://activity-graph.herokuapp.com/graph?username=huynh12345678&theme=react-dark&hide_border=true)
+![Github Stat](https://activity-graph.herokuapp.com/graph?username=huynh12345678&theme=gotham&hide_border=true)
 	
 ## Dev Card 💳
 <a href="https://app.daily.dev/Huynhzip3"><img src="https://api.daily.dev/devcards/67e4fdfb82c34e699b6a121833fb625d.png?r=i8e" width="400" alt="Lê Xuân Huynh's Dev Card"/></a>
@@ -69,12 +69,6 @@ const info = {
 [![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white "NodeJS")](https://nodejs.org)
 [![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)](https://mui.com)
 
-## Featured repositories 🌟
-[![Void](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=Void&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a)](https://github.com/AlphaNecron/Void)
-[![GKutt](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=GKutt&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a)](https://github.com/AlphaNecron/GKutt)
-[![lightdm-gab-nord](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=lightdm-gab-nord&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a)](https://github.com/AlphaNecron/lightdm-gab-nord)
-[![Kutt.NET](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=KUTT.NET&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a)](https://github.com/AlphaNecron/Kutt.NET)
-[![TitlebarZ](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=TitlebarZ&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a)](https://github.com/AlphaNecron/TitlebarZ)
 </details>
 
 <!---
