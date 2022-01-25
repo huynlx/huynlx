@@ -26,7 +26,7 @@ const info = {
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=huynh12345678&hide_border=true&theme=monokai)](#)
 
 ## Most used languages 🌐
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huynh12345678&theme=cobalt&&langs_count=6&hide_border=true&layout=compact)](#)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huynh12345678&theme=cobalt&&langs_count=6&hide_border=true)](#)
 
 ## Graph 📊
 ![Github Stat](https://activity-graph.herokuapp.com/graph?username=huynh12345678&theme=gotham&hide_border=true)
