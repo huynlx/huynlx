@@ -32,9 +32,7 @@ const info = {
 [![Homepage](https://img.shields.io/badge/Homepage-41BDF5?style=for-the-badge&logo=page&logoColor=white "Homepage")](https://huynh12345678.github.io/)
 
 ## Operating systems 💻
-[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white "Arch Linux")](https://archlinux.org/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white "Windows 10")](#)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white "Android")](https://www.android.com/)
 
 ## Devices 📱
 [![Acer Aspire F5 571](https://img.shields.io/badge/Aspire_F5_571-83B81A?style=for-the-badge&logo=arch-linux&logoColor=white "Aspire F5 571")](https://www.acer.com/)
