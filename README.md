@@ -6,7 +6,7 @@ const info = {
 	gender: 'male',
 	occupation: 'fronted developer',
 	location: 'nowhere',
-	interested_in: ['javascript', 'typescript', 'mongodb', 'reactjs', 'nextjs', 'nodejs'],
+	interested_in: ['javascript', 'typescript', 'reactjs', 'nextjs', 'nodejs'],
 	email: 'huynhlx62@wru.vn'
 };
 ```
@@ -54,6 +54,7 @@ const info = {
 [![Code](https://img.shields.io/badge/Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white "Code")](https://code.visualstudio.com)
 [![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=Sublime%20Text&logoColor=white "Sublime Text")](https://www.sublimetext.com)
 [![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)](https://atom.io/)
+[![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://codesandbox.io/) 
 
 ### Browsers
 [![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoft%20edge&logoColor=white "Microsoft Edge")](https://www.microsoft.com/edge)
@@ -65,12 +66,24 @@ const info = {
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 
 ### Languages and frameworks
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white "TypeScript")](https://www.typescriptlang.org)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black "React")](https://reactjs.org)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white "Next.js")](https://nextjs.org)
 [![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white "NodeJS")](https://nodejs.org)
-[![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)](https://mui.com)
+	
+### Databases
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </details>
 
