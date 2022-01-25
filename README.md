@@ -35,8 +35,8 @@ const info = {
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white "Windows 10")](#)
 
 ## Devices 📱
-[![Acer Aspire F5 571](https://img.shields.io/badge/Aspire_F5_571-83B81A?style=for-the-badge&logo=arch-linux&logoColor=white "Aspire F5 571")](https://www.acer.com/)
-[![Xiaomi Redmi 9](https://img.shields.io/badge/Redmi_9-FA6709?style=for-the-badge&logo=xiaomi&logoColor=white "Redmi 9")](https://www.mi.com/)
+[![Lenovo Legion Y7000](https://img.shields.io/badge/Aspire_F5_571-83B81A?style=for-the-badge&logo=arch-linux&logoColor=white "Aspire F5 571")](https://www.acer.com/)
+[![iPhone 8 Plus](https://img.shields.io/badge/Redmi_9-FA6709?style=for-the-badge&logo=xiaomi&logoColor=white "Redmi 9")](https://www.mi.com/)
 
 ## Tools 🚀
 
