@@ -15,7 +15,7 @@ const info = {
   <summary>More</summary>
 	
 ## Stats 📈
-[![Stats](https://github-readme-stats.vercel.app/api?username=huynh12345678&show_icons=true&hide_border=true&theme=algolia)](#)  
+[![Stats](https://github-readme-stats.vercel.app/api?username=huynh12345678&show_icons=true&hide_border=true&theme=react)](#)  
 	
 ## Streak 🔥
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=huynh12345678&hide_border=true&theme=monokai)](#)
