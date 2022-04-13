@@ -5,7 +5,7 @@ const info = {
 	age: 23,
 	gender: 'male',
 	occupation: 'fronted developer',
-	location: 'nowhere',
+	location: 'the Earth',
 	interested_in: ['javascript', 'typescript', 'reactjs', 'nextjs', 'nodejs'],
 	email: 'huynhlx62@wru.vn'
 };
