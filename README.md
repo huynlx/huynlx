@@ -12,6 +12,7 @@ const info = {
 	email: 'huynhlx62@wru.vn'
 };
 ```
+
 <!-- ![](https://komarev.com/ghpvc/?username=huynh12345678) -->
 
 <details>
