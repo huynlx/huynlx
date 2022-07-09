@@ -27,48 +27,48 @@ const info = {
   <img src="https://static.wikia.nocookie.net/963a79fe-f806-4381-b09f-7dbadb109e09/scale-to-width/755">
 </p>
 	
-## Stats 📈
+## 📈 Stats 
 <p align="center">
 <img src='https://github-stats-alpha.vercel.app/api/?username=huynh12345678'>
 <p>
 	
-## Streak 🔥
+## 🔥 Streak 
 <p align="center">
 <img src='http://github-readme-streak-stats.herokuapp.com/?user=huynh12345678&hide_border=true&theme=monokai'>
 <p>
 
-## Most used languages 🌐
+## 🌐 Most used languages 
 <p align="center">
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=huynh12345678&theme=cobalt&&langs_count=6&hide_border=true'>
 <p>
 
-## Graph 📊
+## 📊 Graph 
 <p align="center">
 <img src='https://activity-graph.herokuapp.com/graph?username=huynh12345678&theme=gotham&hide_border=true'>
 <p>
 	
-## Dev Card 💳
+## 💳 Dev Card 
 <a href="https://app.daily.dev/Huynhzip3"><img src="https://api.daily.dev/devcards/67e4fdfb82c34e699b6a121833fb625d.png?r=i8e" width="400" alt="Lê Xuân Huynh's Dev Card"/></a>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Huynhzip3+-+A+frontend+developer" align="right">
 
-## Trophies 🏆
+## 🏆 Trophies 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=huynh12345678&margin-w=10&theme=discord&no-frame=true)](#) 
 
-## Links 🔗
+## 🔗 Links 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Huynh12345678)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white "Discord")](https://discord.com/users/905864303553445928)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white "Facebook")](https://www.facebook.com/xuanhuynh.le.54)
 [![Homepage](https://img.shields.io/badge/Homepage-41BDF5?style=for-the-badge&logo=page&logoColor=white "Homepage")](https://huynh12345678.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/huynh-le-xuan-09b81b202/)
 
-## Operating systems 💻
+## 💻 Operating systems 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white "Windows 10")](#)
 
-## Devices 📱
+## 📱 Devices 
 ![Lenovo Legion Y7000](https://img.shields.io/badge/Lenovo%20Legion%20Y7000-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
 ![iPhone 8 Plus](https://img.shields.io/badge/iPhone%208%20Plus-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 
-## Tools 🚀
+## 🚀 Tools 
 
 ### IDEs and editors
 [![Code](https://img.shields.io/badge/Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white "Code")](https://code.visualstudio.com)
