@@ -35,7 +35,7 @@ const info = {
 	
 ## 📈 Stats 
 <p align="center">
-<img src='https://github-stats-alpha.vercel.app/api/?username=huynh12345678'>
+  <img src="https://github-stats-alpha.vercel.app/api/?username=huynh12345678">
 <p>
 	
 ## 🔥 Streak 
