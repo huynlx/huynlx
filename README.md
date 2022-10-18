@@ -84,7 +84,7 @@ const info = {
 ## 📱 Devices 
 ![Lenovo Legion Y7000](https://img.shields.io/badge/Lenovo%20Legion%20Y7000-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
 ![iPhone 8 Plus](https://img.shields.io/badge/iPhone%208%20Plus-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
-![MacBook Pro](https://img.shields.io/badge/MacBook%20Pro-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+![MacBook Pro](https://img.shields.io/badge/MacBook%20Pro%2014"-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![iPhone 13 Pro](https://img.shields.io/badge/iPhone%2013%20Pro-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 
 ## 🚀 Tools 
