@@ -69,10 +69,13 @@ const info = {
 
 ## 💻 Operating systems 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white "Windows 10")](#)
+[![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](#)
 
 ## 📱 Devices 
 ![Lenovo Legion Y7000](https://img.shields.io/badge/Lenovo%20Legion%20Y7000-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
 ![iPhone 8 Plus](https://img.shields.io/badge/iPhone%208%20Plus-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+![MacBook Pro](https://img.shields.io/badge/MacBook%20Pro-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+![iPhone 13 Pro](https://img.shields.io/badge/iPhone%2013%20Pro-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 
 ## 🚀 Tools 
 
@@ -81,6 +84,8 @@ const info = {
 [![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=Sublime%20Text&logoColor=white "Sublime Text")](https://www.sublimetext.com)
 [![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)](https://atom.io/)
 [![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://codesandbox.io/) 
+[![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
+[![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
 
 ### Browsers
 [![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoft%20edge&logoColor=white "Microsoft Edge")](https://www.microsoft.com/edge)
