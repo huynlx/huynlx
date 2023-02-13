@@ -22,7 +22,7 @@ const info = {
   nickname: "huynhzip3",
   age: 23,
   gender: "male",
-  occupation: "fronted developer",
+  occupation: "web developer",
   location: "the Earth",
   interested_in: ["javascript", "typescript", "reactjs", "nextjs", "nodejs"],
   email: "huynhlx62@wru.vn",
