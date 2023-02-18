@@ -59,7 +59,7 @@ const info = {
 ## 📊 Graph
 
 <p align="center">
-	<img src='https://activity-graph.herokuapp.com/graph?username=huynlx&theme=gotham&hide_border=true'>
+	<img src='https://github-readme-activity-graph.cyclic.app/graph?username=huynlx&theme=vue'>
 <p>
 	
 ## 💳 Dev Card 
