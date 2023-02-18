@@ -41,25 +41,25 @@ const info = {
 ## 📈 Stats 
 <p align="center">
   <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;" height='195'>
-  <img src="https://github-stats-alpha.vercel.app/api/?username=huynh12345678">
+  <img src="https://github-stats-alpha.vercel.app/api/?username=huynlx">
   <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;" height='195'>
 <p>
 	
 ## 🔥 Streak 
 <p align="center">
-	<img src='http://github-readme-streak-stats.herokuapp.com/?user=huynh12345678&hide_border=true&theme=monokai'>
+	<img src='http://github-readme-streak-stats.herokuapp.com/?user=huynhlx&hide_border=true&theme=monokai'>
 <p>
 
 ## 🌐 Most used languages
 
 <p align="center">
-	<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=huynh12345678&theme=cobalt&&langs_count=6&hide_border=true'>
+	<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=huynlx&theme=cobalt&&langs_count=6&hide_border=true'>
 <p>
 
 ## 📊 Graph
 
 <p align="center">
-	<img src='https://activity-graph.herokuapp.com/graph?username=huynh12345678&theme=gotham&hide_border=true'>
+	<img src='https://activity-graph.herokuapp.com/graph?username=huynlx&theme=gotham&hide_border=true'>
 <p>
 	
 ## 💳 Dev Card 
@@ -74,14 +74,14 @@ const info = {
 
 ## 🏆 Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=huynh12345678&margin-w=10&theme=discord&no-frame=true)](#)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=huynlx&margin-w=10&theme=discord&no-frame=true)](#)
 
 ## 🔗 Links
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Huynh12345678)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huynlx)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white "Discord")](https://discord.com/users/905864303553445928)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white "Facebook")](https://www.facebook.com/xuanhuynh.le.54)
-[![Homepage](https://img.shields.io/badge/Homepage-41BDF5?style=for-the-badge&logo=page&logoColor=white "Homepage")](https://huynh12345678.github.io/)
+[![Homepage](https://img.shields.io/badge/Homepage-41BDF5?style=for-the-badge&logo=page&logoColor=white "Homepage")](https://huynlx.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/huynh-le-xuan-09b81b202/)
 
 ## 💻 Operating systems
@@ -159,6 +159,6 @@ const info = {
 </details>
 
 <!---
-Huynh12345678/Huynh12345678 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+huynlx/huynlx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
