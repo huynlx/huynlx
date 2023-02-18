@@ -1,6 +1,6 @@
 <div align="center" width="100%">
 	<img width="100%" alt="welcome to my profile!" src="./assets/header.png">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=I'm+Huynh;Information+Technology+Student;Vietnamese+Frontend+Dev" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=I'm+Huynh;Information+Technology+Engineer;Vietnamese+Web+Dev" alt="Computer Engineering Student, Vietnamese front-end developer, Power Metal lover"></a>
 	<img src="./assets/lightning.gif" width="1200" height="3">
 	<img src="./assets/brand.png" width="1200">
 	<img src="./assets/lightning.gif" width="1200" height="3">
