@@ -47,7 +47,7 @@ const info = {
 	
 ## 🔥 Streak 
 <p align="center">
-	<img src='http://github-readme-streak-stats.herokuapp.com/?user=huynhlx&hide_border=true&theme=monokai'>
+	<img src='http://github-readme-streak-stats.herokuapp.com/?user=huynlx&hide_border=true&theme=monokai'>
 <p>
 
 ## 🌐 Most used languages
