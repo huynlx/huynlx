@@ -100,6 +100,7 @@ const info = {
 ### IDEs and editors
 
 [![Code](https://img.shields.io/badge/Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white "Code")](https://code.visualstudio.com)
+[![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)](https://www.jetbrains.com/webstorm)
 [![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=Sublime%20Text&logoColor=white "Sublime Text")](https://www.sublimetext.com)
 [![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)](https://atom.io/)
 [![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://codesandbox.io/)
