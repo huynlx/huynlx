@@ -1,6 +1,6 @@
 <div align="center" width="100%">
 	<img width="100%" alt="welcome to my profile!" src="./assets/header.png">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=I'm+Huynh;Information+Technology+Engineer;Vietnamese+Web+Dev" alt="Computer Engineering Student, Vietnamese front-end developer, Power Metal lover"></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=I'm+Huynh;Information+Technology+Engineer;Vietnamese+Web+Developer" alt="Computer Engineering Student, Vietnamese front-end developer, Power Metal lover"></a>
 	<img src="./assets/lightning.gif" width="1200" height="3">
 	<img src="./assets/brand.png" width="1200">
 	<img src="./assets/lightning.gif" width="1200" height="3">
@@ -64,7 +64,7 @@ const info = {
 	
 ## 💳 Dev Card 
 <a href="https://app.daily.dev/Huynhzip3"><img src="https://api.daily.dev/devcards/67e4fdfb82c34e699b6a121833fb625d.png?r=i8e" width="400" alt="Lê Xuân Huynh's Dev Card"/></a>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Huynhzip3+-+A+software+developer" align="right">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Huynh+-+A+software+engineer" align="right">
 
 ## 🐍 Contribution
 
