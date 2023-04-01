@@ -64,7 +64,7 @@ const info = {
 	
 ## 💳 Dev Card 
 <a href="https://app.daily.dev/Huynhzip3"><img src="https://api.daily.dev/devcards/67e4fdfb82c34e699b6a121833fb625d.png?r=i8e" width="400" alt="Lê Xuân Huynh's Dev Card"/></a>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Huynhzip3+-+A+frontend+developer" align="right">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Huynhzip3+-+A+software+developer" align="right">
 
 ## 🐍 Contribution
 
