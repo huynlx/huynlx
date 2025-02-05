@@ -20,7 +20,7 @@
 const info = {
   fullName: "Le Xuan Huynh",
   nickname: "huynhzip3",
-  age: 23,
+  age: 26,
   gender: "male",
   occupation: "web developer",
   location: "the Earth",
